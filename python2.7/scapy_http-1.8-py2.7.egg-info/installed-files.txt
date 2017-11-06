@@ -1,0 +1,9 @@
+../scapy_http/__init__.py
+../scapy_http/http.py
+../scapy_http/__init__.pyc
+../scapy_http/http.pyc
+top_level.txt
+SOURCES.txt
+PKG-INFO
+requires.txt
+dependency_links.txt
